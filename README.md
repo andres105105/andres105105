@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋, mi nombre es Andres <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Aprendiendo Python**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Aprendiendo Bootstrap**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 Aprendiendo React-Native**
 
-- 📫 How to reach me: **andrezzanchez@gmail.com**
+- 📫 Mi gmail: **andrezzanchez@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
