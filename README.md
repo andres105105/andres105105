@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Andres <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Argentina</h3>
+<h3 align="center"> Estudiante </h3>
 
 - 🔭 Aprendiendo Python**
 
